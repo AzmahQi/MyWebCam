@@ -1,7 +1,7 @@
 import unittest
 
 EXPECTED_PYTHON = "3.12.3"
-EXPECTED_OPENCV = "4.6.0"
+EXPECTED_OPENCV = "4.12.0"
 
 
 class TestRequirements(unittest.TestCase):
