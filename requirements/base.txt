@@ -1,1 +1,4 @@
 opencv-contrib-python==4.12.0.88
+face-recognition
+face-recognition-models
+numpy
